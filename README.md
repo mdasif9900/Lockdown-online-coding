@@ -1,4 +1,4 @@
-#  C Program to check whether the two string are Anagram or not
+# 1. C Program to check whether the two string are Anagram or not
 
 # Sample output 1:
 
