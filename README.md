@@ -1,8 +1,8 @@
-# Lockdown-online-coding
 #  C Program to check whether the two string are Anagram or not
 
-Sample output:
+Sample output
 1:
+
 Enter two strings
 
 act
