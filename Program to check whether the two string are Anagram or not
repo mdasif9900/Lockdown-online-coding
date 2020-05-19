@@ -4,7 +4,7 @@ int main()
 {
 	char a[100],b[100];
 	int p,q,i;					          //for finding lengths of each string
-	int f=0,				          //flag veriable
+	int f=0;				          //flag veriable
 	int ca[26],cb[26];		  	//for counting of each variable in each string
 
 	printf("Enter two strings\n");
