@@ -35,7 +35,7 @@ public class Frequency {
 	            }
 	            if(str.charAt(i) == 'd') {  
 	                c8++;  
-	            }
+	             }
 	            if(str.charAt(i) ==' ') {  
 	                c9++;  
 	            }
