@@ -37,6 +37,6 @@ class Shortpal
         if(flag==1)
         {
             System.out.println(cnt);
-        }
+       }
     }
 }
